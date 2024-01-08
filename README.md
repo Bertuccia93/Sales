@@ -8,8 +8,9 @@ This repository contains a simple JavaScript script for a sales exercise. To tes
 
 3. Navigate to the project directory using the terminal.
 
-4. Run the script by executing the following command: ``` node script.js
-   
+4. Run the script by executing the following command: 
+    ```bash
+    node script.js
     ```
 
 

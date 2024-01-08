@@ -2,8 +2,9 @@
 
 This repository contains a simple JavaScript script for a sales exercise. To test the script, follow the steps below:
 
-1. Clone the repository using the command:    ```bash
-    node script.js
+1. Clone the repository using the command: 
+   ```bash
+    git clone https://github.com/Bertuccia93/Sales.git
     ```
 
 2. Ensure that Node.js is installed on your system.
